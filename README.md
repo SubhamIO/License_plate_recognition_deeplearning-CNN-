@@ -16,6 +16,8 @@ or can learn
 ## Algorithm Used: 
 - Used VGG-16 model architecture
 
+## Trained model : https://drive.google.com/file/d/18xOXAHIZ0aFYqEi41zLykdcrdwZXSYRJ/view?usp=sharing
+
 ## Results:
 - Test Accuracy : 90%
 
